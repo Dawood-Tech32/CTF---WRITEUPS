@@ -97,3 +97,4 @@ command &> file     # both
 ## Reference
 
 Official module: HTB Academy — *Linux Fundamentals*
+Badge : https://academy.hackthebox.com/achievement/2277949/18
